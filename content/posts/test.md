@@ -1,1 +1,1 @@
-<p>이건 테스트 글입니다!!! Decap CMS?<a href="https://www.naver.com">네이버</a></p>
+<p style="font-size:24px;">이건 테스트 글입니다!!! Decap CMS?<a href="https://www.naver.com">네이버</a></p>
